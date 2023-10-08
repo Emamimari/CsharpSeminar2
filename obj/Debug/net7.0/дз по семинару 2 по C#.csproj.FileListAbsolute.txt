@@ -1,0 +1,14 @@
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\bin\Debug\net7.0\дз по семинару 2 по C#.exe
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\bin\Debug\net7.0\дз по семинару 2 по C#.deps.json
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\bin\Debug\net7.0\дз по семинару 2 по C#.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\bin\Debug\net7.0\дз по семинару 2 по C#.dll
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\bin\Debug\net7.0\дз по семинару 2 по C#.pdb
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\obj\Debug\net7.0\дз по семинару 2 по C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\obj\Debug\net7.0\дз по семинару 2 по C#.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\obj\Debug\net7.0\дз по семинару 2 по C#.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\obj\Debug\net7.0\дз по семинару 2 по C#.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\obj\Debug\net7.0\дз по семинару 2 по C#.dll
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\obj\Debug\net7.0\refint\дз по семинару 2 по C#.dll
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\obj\Debug\net7.0\дз по семинару 2 по C#.pdb
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\obj\Debug\net7.0\дз по семинару 2 по C#.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Desktop\семинары\дз по семинару 2 по C#\obj\Debug\net7.0\ref\дз по семинару 2 по C#.dll
